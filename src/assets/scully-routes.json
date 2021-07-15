@@ -3,12 +3,18 @@
     "route": "/blog/first-post",
     "title": "First post",
     "description": "blog description",
-    "publish": false
+    "publish": true
   },
   {
     "route": "/blog/second-post",
     "title": "Second post",
     "description": "blog description",
-    "publish": false
+    "publish": true
+  },
+    {
+    "route": "/blog/first-post-copy",
+    "title": "First post copy",
+    "description": "blog description copy",
+    "publish": true
   }
 ]
